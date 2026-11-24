@@ -130,7 +130,7 @@ Web Development        ████████████░░░░░░░
 
 <div align="center">
 
-<!-- TODO(owner): personal email badge removed. Add a non-personal contact address here if wanted; none was guessed. -->
+Contact: [GitHub Issues (contact channel)](https://github.com/OptisecDev/ahssanali84syber-boop/issues)
 [![GitHub](https://img.shields.io/badge/GitHub-OptisecDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OptisecDev)
 [![Buy Optisec](https://img.shields.io/badge/Buy_Optisec-$199-00ff88?style=for-the-badge)](https://optisecdev.github.io/optisec-wifi-monitor)
 
