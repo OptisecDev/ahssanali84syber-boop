@@ -11,7 +11,7 @@
 
 ### Cybersecurity Engineer · Network Defense Specialist · Tool Builder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=WiFi+Defense+%7C+Packet+Analysis+%7C+AI+Security;BlackArch+Linux+%7C+Python+%7C+Scapy;Building+tools+that+protect+networks;%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D8%AA%D8%AD%D9%85%D9%8A+%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA)](https://github.com/ahssanali84syber-boop)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=WiFi+Defense+%7C+Packet+Analysis+%7C+AI+Security;BlackArch+Linux+%7C+Python+%7C+Scapy;Building+tools+that+protect+networks;%D8%A3%D8%A8%D9%86%D9%8A+%D8%A3%D8%AF%D9%88%D8%A7%D8%AA+%D8%AA%D8%AD%D9%85%D9%8A+%D8%A7%D9%84%D8%B4%D8%A8%D9%83%D8%A7%D8%AA)](https://github.com/OptisecDev)
 
 </div>
 
@@ -22,7 +22,7 @@
 ```python
 class SecurityEngineer:
     name     = "Ehsan"
-    handle   = "ahssanali84syber-boop"
+    handle   = "OptisecDev"
     focus    = ["WiFi Defense", "Network Monitoring", "Threat Detection"]
     tools    = ["Scapy", "Nmap", "Airmon-ng", "Wireshark", "Metasploit"]
     os       = "BlackArch Linux"
@@ -62,7 +62,7 @@ class SecurityEngineer:
 
 ## 🚀 Featured Projects | المشاريع المميزة
 
-### 🔐 [Optisec WiFi Monitor](https://github.com/ahssanali84syber-boop/optisec-wifi-monitor)
+### 🔐 [Optisec WiFi Monitor](https://github.com/OptisecDev/optisec-wifi-monitor)
 
 > Professional real-time WiFi defense monitoring tool — **$199 one-time license**
 
@@ -78,9 +78,9 @@ class SecurityEngineer:
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ahssanali84syber-boop/optisec-wifi-monitor)
-[![Sales Page](https://img.shields.io/badge/Sales_Page-Live-00ff88?style=for-the-badge)](https://ahssanali84syber-boop.github.io/optisec-wifi-monitor)
-[![Buy License](https://img.shields.io/badge/Buy_License-$199-gold?style=for-the-badge)](https://ahssanali84syber-boop.github.io/optisec-wifi-monitor)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/OptisecDev/optisec-wifi-monitor)
+[![Sales Page](https://img.shields.io/badge/Sales_Page-Live-00ff88?style=for-the-badge)](https://optisecdev.github.io/optisec-wifi-monitor)
+[![Buy License](https://img.shields.io/badge/Buy_License-$199-gold?style=for-the-badge)](https://optisecdev.github.io/optisec-wifi-monitor)
 
 ---
 
@@ -88,11 +88,11 @@ class SecurityEngineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahssanali84syber-boop&show_icons=true&theme=radical&bg_color=04090f&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=d0dce8&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OptisecDev&show_icons=true&theme=radical&bg_color=04090f&border_color=00ff88&icon_color=00ff88&title_color=00ff88&text_color=d0dce8&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahssanali84syber-boop&layout=compact&theme=radical&bg_color=04090f&border_color=00ff88&title_color=00ff88&text_color=d0dce8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OptisecDev&layout=compact&theme=radical&bg_color=04090f&border_color=00ff88&title_color=00ff88&text_color=d0dce8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ahssanali84syber-boop&theme=dark&background=04090f&border=00ff88&stroke=00ff88&ring=00d4ff&fire=ff3b5c&currStreakLabel=00ff88&sideLabels=00ff88&dates=6b7fa0)
+![GitHub Streak](https://streak-stats.demolab.com?user=OptisecDev&theme=dark&background=04090f&border=00ff88&stroke=00ff88&ring=00d4ff&fire=ff3b5c&currStreakLabel=00ff88&sideLabels=00ff88&dates=6b7fa0)
 
 </div>
 
@@ -130,9 +130,9 @@ Web Development        ████████████░░░░░░░
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ahssanali84.syber%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahssanali84.syber@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ahssanali84syber--boop-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahssanali84syber-boop)
-[![Buy Optisec](https://img.shields.io/badge/Buy_Optisec-$199-00ff88?style=for-the-badge)](https://ahssanali84syber-boop.github.io/optisec-wifi-monitor)
+Contact: [GitHub Issues (contact channel)](https://github.com/OptisecDev/ahssanali84syber-boop/issues)
+[![GitHub](https://img.shields.io/badge/GitHub-OptisecDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OptisecDev)
+[![Buy Optisec](https://img.shields.io/badge/Buy_Optisec-$199-00ff88?style=for-the-badge)](https://optisecdev.github.io/optisec-wifi-monitor)
 
 </div>
 
@@ -145,6 +145,6 @@ Web Development        ████████████░░░░░░░
 أفضل دفاع هو معرفة ما يوجد بالضبط على شبكتك
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ahssanali84syber-boop&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=OptisecDev&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
